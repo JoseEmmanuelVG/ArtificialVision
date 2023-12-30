@@ -1,7 +1,8 @@
 # Artificial Vision
 
 Artificial Vision theory and practice repository 
-- [P1: Computer Vision Histogram ](docs/T1.md)
+- [T1: Computer Vision Histogram ](docs/T1.md)
+- [T2: Linear Filter for Identification and Thresholding ](docs/T2.md)
 
 
 
