@@ -3,10 +3,7 @@
 Artificial Vision theory and practice repository 
 - [T1: Computer Vision Histogram ](docs/T1.md)
 - [T2: Linear Filter for Identification and Thresholding ](docs/T2.md)
-
-
-
-
+- [T3: Spatial Filtering ](docs/T3.md)
 
 
 
