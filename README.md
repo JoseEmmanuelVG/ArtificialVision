@@ -1,12 +1,3 @@
-# Artificial Vision
-
-Artificial Vision theory and practice repository 
-- [T1: Computer Vision Histogram ](docs/T1.md)
-- [T2: Linear Filter for Identification and Thresholding ](docs/T2.md)
-- [T3: Spatial Filtering ](docs/T3.md)
-
-
-
 <details>
   <summary>🌟 Did you find any repository useful?</summary>
   If any project has been helpful to you, consider giving it a ⭐ star in the repository and follow my GitHub account to stay tuned for future updates! 🚀
