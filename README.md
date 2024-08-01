@@ -19,6 +19,13 @@ Artificial Vision theory and practice repository
 </p>
 
 
+# [Final Project](docs/FinalProject.md)
+<p align="center">            
+<img src="https://github.com/user-attachments/assets/46b419a0-5948-491d-af6e-b6f087d29a08" width="500" height="200">
+<img src="https://github.com/user-attachments/assets/d75487e6-6e77-4fe6-ba90-40102645117e" width="500" height="200">
+</p>
+
+
 <details>
   <summary>🌟 Did you find any repository useful?</summary>
   If any project has been helpful to you, consider giving it a ⭐ star in the repository and follow my GitHub account to stay tuned for future updates! 🚀
